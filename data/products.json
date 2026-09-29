@@ -1,0 +1,2100 @@
+[
+  {
+    "id": "prd_1788716696115-500212688",
+    "name": "Lifestyle1",
+    "slug": "lifestyle1-12688",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696115-500212688",
+        "url": "/uploads/1788716696115-500212688.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.208Z",
+    "updatedAt": "2026-09-06T17:44:56.208Z"
+  },
+  {
+    "id": "prd_1788716696213-372096573",
+    "name": "Lifestyle2",
+    "slug": "lifestyle2-96573",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696213-372096573",
+        "url": "/uploads/1788716696213-372096573.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.230Z",
+    "updatedAt": "2026-09-06T17:44:56.230Z"
+  },
+  {
+    "id": "prd_1788716696233-667845185",
+    "name": "Lifestyle3",
+    "slug": "lifestyle3-45185",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696233-667845185",
+        "url": "/uploads/1788716696233-667845185.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.248Z",
+    "updatedAt": "2026-09-06T17:44:56.248Z"
+  },
+  {
+    "id": "prd_1788716696250-517626338",
+    "name": "Lifestyle4",
+    "slug": "lifestyle4-26338",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696250-517626338",
+        "url": "/uploads/1788716696250-517626338.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.264Z",
+    "updatedAt": "2026-09-06T17:44:56.264Z"
+  },
+  {
+    "id": "prd_1788716696266-583918897",
+    "name": "Lifestyle5",
+    "slug": "lifestyle5-18897",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696266-583918897",
+        "url": "/uploads/1788716696266-583918897.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.279Z",
+    "updatedAt": "2026-09-06T17:44:56.279Z"
+  },
+  {
+    "id": "prd_1788716696281-293339772",
+    "name": "Lifestyle6",
+    "slug": "lifestyle6-39772",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696281-293339772",
+        "url": "/uploads/1788716696281-293339772.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.295Z",
+    "updatedAt": "2026-09-06T17:44:56.295Z"
+  },
+  {
+    "id": "prd_1788716696298-439946256",
+    "name": "Lifestyle7",
+    "slug": "lifestyle7-46256",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696298-439946256",
+        "url": "/uploads/1788716696298-439946256.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.310Z",
+    "updatedAt": "2026-09-06T17:44:56.310Z"
+  },
+  {
+    "id": "prd_1788716696312-80726765",
+    "name": "Lifestyle8",
+    "slug": "lifestyle8-26765",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696312-80726765",
+        "url": "/uploads/1788716696312-80726765.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.327Z",
+    "updatedAt": "2026-09-06T17:44:56.327Z"
+  },
+  {
+    "id": "prd_1788716696330-353743821",
+    "name": "Lifestyle9",
+    "slug": "lifestyle9-43821",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696330-353743821",
+        "url": "/uploads/1788716696330-353743821.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.345Z",
+    "updatedAt": "2026-09-06T17:44:56.345Z"
+  },
+  {
+    "id": "prd_1788716696347-916901427",
+    "name": "Lifestyle10",
+    "slug": "lifestyle10-01427",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696347-916901427",
+        "url": "/uploads/1788716696347-916901427.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.365Z",
+    "updatedAt": "2026-09-06T17:44:56.365Z"
+  },
+  {
+    "id": "prd_1788716696369-998602666",
+    "name": "Lifestyle11",
+    "slug": "lifestyle11-02666",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696369-998602666",
+        "url": "/uploads/1788716696369-998602666.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.387Z",
+    "updatedAt": "2026-09-06T17:44:56.387Z"
+  },
+  {
+    "id": "prd_1788716696390-269610323",
+    "name": "Lifestyle12",
+    "slug": "lifestyle12-10323",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696390-269610323",
+        "url": "/uploads/1788716696390-269610323.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.406Z",
+    "updatedAt": "2026-09-06T17:44:56.406Z"
+  },
+  {
+    "id": "prd_1788716696408-72207291",
+    "name": "Lifestyle13",
+    "slug": "lifestyle13-07291",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696408-72207291",
+        "url": "/uploads/1788716696408-72207291.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.428Z",
+    "updatedAt": "2026-09-06T17:44:56.428Z"
+  },
+  {
+    "id": "prd_1788716696432-385056044",
+    "name": "Lifestyle14",
+    "slug": "lifestyle14-56044",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716696432-385056044",
+        "url": "/uploads/1788716696432-385056044.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:44:56.454Z",
+    "updatedAt": "2026-09-06T17:44:56.454Z"
+  },
+  {
+    "id": "prd_1788716985804-263083931",
+    "name": "Heritage Carpet1",
+    "slug": "heritage-carpet1-83931",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716985804-263083931",
+        "url": "/uploads/1788716985804-263083931.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:49:45.841Z",
+    "updatedAt": "2026-09-06T17:49:45.841Z"
+  },
+  {
+    "id": "prd_1788716985843-230409019",
+    "name": "Heritage Carpet 2",
+    "slug": "heritage-carpet-2-09019",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716985843-230409019",
+        "url": "/uploads/1788716985843-230409019.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:49:45.849Z",
+    "updatedAt": "2026-09-06T17:49:45.849Z"
+  },
+  {
+    "id": "prd_1788716985850-627485376",
+    "name": "Heritage Carpet 3",
+    "slug": "heritage-carpet-3-85376",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716985850-627485376",
+        "url": "/uploads/1788716985850-627485376.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:49:45.856Z",
+    "updatedAt": "2026-09-06T17:49:45.856Z"
+  },
+  {
+    "id": "prd_1788716985857-161941493",
+    "name": "Heritage Carpet 4",
+    "slug": "heritage-carpet-4-41493",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716985857-161941493",
+        "url": "/uploads/1788716985857-161941493.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:49:45.862Z",
+    "updatedAt": "2026-09-06T17:49:45.862Z"
+  },
+  {
+    "id": "prd_1788716985864-400813214",
+    "name": "Heritage Carpet 5",
+    "slug": "heritage-carpet-5-13214",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788716985864-400813214",
+        "url": "/uploads/1788716985864-400813214.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-06T17:49:45.870Z",
+    "updatedAt": "2026-09-06T17:49:45.870Z"
+  },
+  {
+    "id": "prd_1788741111952-210203686",
+    "name": "BhadohiCarpetWaeavelite 2",
+    "slug": "bhadohicarpetwaeavelite-2",
+    "description": "This elegant handwoven carpet brings warmth and sophistication to any living space. Featuring soft earthy tones and a subtle textured pattern, it blends seamlessly with modern, minimalist, and contemporary interiors. Crafted for comfort and durability, the carpet adds a cozy atmosphere while enhancing the room’s natural aesthetic with timeless style and refined charm. Desert Loom",
+    "collectionId": "col_1788716339321",
+    "priceMode": "ENQUIRE",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "url": "/images/emerald-meadow.png",
+        "isMain": true
+      },
+      {
+        "url": "/uploads/1789195590615-823040770.jpg",
+        "isMain": false
+      },
+      {
+        "url": "/uploads/1789195590623-554385308.jpg",
+        "isMain": false
+      },
+      {
+        "url": "/uploads/1789195590631-114770920.jpg",
+        "isMain": false
+      },
+      {
+        "url": "/uploads/1789195590635-541772616.jpg",
+        "isMain": false
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:51.991Z",
+    "updatedAt": "2026-09-07T00:31:51.991Z",
+    "isBestSeller": true,
+    "collection": {
+      "name": "Mock Collection"
+    },
+    "features": [
+      "Premium quality craftsmanship",
+      "Soft, luxurious underfoot feel",
+      "Durable and long-lasting material",
+      "Easy to clean and maintain"
+    ],
+    "isGrandRoomLook": false
+  },
+  {
+    "id": "prd_1788741111994-20482662",
+    "name": "BhadohiCarpetWaeavelite 3",
+    "slug": "bhadohicarpetwaeavelite-3",
+    "description": "Emerald Horizon is a luxurious handwoven carpet inspired by lush natural landscapes. Featuring rich green tones and layered textures, it creates a bold yet calming ambiance in bedrooms, lounges, and modern interiors. Soft underfoot and crafted for durability, this elegant carpet brings warmth, sophistication, and contemporary style to any living space. Em erald Horizon",
+    "collectionId": "col_infinity",
+    "priceMode": "ENQUIRE",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "url": "/images/emerald-meadow.png",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:51.999Z",
+    "updatedAt": "2026-09-07T00:31:51.999Z",
+    "isBestSeller": true,
+    "collection": {
+      "name": "Mock Collection"
+    }
+  },
+  {
+    "id": "prd_1788741112000-15192652",
+    "name": "BhadohiCarpetWaeavelite 4",
+    "slug": "bhadohicarpetwaeavelite-4-92652",
+    "description": "Midnight Mosaic combines deep earthy tones with subtle blue accents, creating a sophisticated textured design for modern interiors. Expertly crafted for comfort and durability, this luxurious carpet enhances bedrooms, lounges, and hallways with warmth and elegance. Its rich layered pattern adds depth, character, and timeless charm to every contemporary living space. Midnight Mosaic",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112000-15192652",
+        "url": "/uploads/1788741112000-15192652.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.005Z",
+    "updatedAt": "2026-09-07T00:31:52.005Z"
+  },
+  {
+    "id": "prd_1788741112007-967722886",
+    "name": "BhadohiCarpetWaeavelite 5",
+    "slug": "bhadohicarpetwaeavelite-5-22886",
+    "description": "Royal Amethyst is a luxurious carpet featuring rich purple tones and a beautifully textured finish that adds depth and elegance to any interior. Designed for comfort and durability, it creates a warm, sophisticated atmosphere in bedrooms, lounges, and premium spaces while complementing modern and contemporary décor with timeless style and charm. Royal Amethyst",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112007-967722886",
+        "url": "/uploads/1788741112007-967722886.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.012Z",
+    "updatedAt": "2026-09-07T00:31:52.012Z"
+  },
+  {
+    "id": "prd_1788741112013-246159767",
+    "name": "BhadohiCarpetWaeavelite 6",
+    "slug": "bhadohicarpetwaeavelite-6-59767",
+    "description": "Ocean Mirage is a beautifully textured carpet inspired by deep ocean hues and shimmering coastal tones. Its rich blue blend adds elegance, warmth, and depth to modern interiors. Crafted for lasting comfort and durability, this luxurious carpet enhances bedrooms, lounges, and hospitality spaces with a refined contemporary style and sophisticated charm. Ocean Mirage",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112013-246159767",
+        "url": "/uploads/1788741112013-246159767.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.018Z",
+    "updatedAt": "2026-09-07T00:31:52.018Z"
+  },
+  {
+    "id": "prd_1788741112019-429396349",
+    "name": "BhadohiCarpetWaeavelite 7",
+    "slug": "bhadohicarpetwaeavelite-7-96349",
+    "description": "Mocha Lines features a rich earthy base accented with elegant abstract linear patterns, creating a perfect balance of modern style and timeless sophistication. Soft, durable, and beautifully textured, this luxurious carpet enhances bedrooms, lounges, and hospitality spaces with warmth, comfort, and a refined contemporary aesthetic that complements any interior décor. Mocha Lines",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112019-429396349",
+        "url": "/uploads/1788741112019-429396349.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.025Z",
+    "updatedAt": "2026-09-07T00:31:52.025Z"
+  },
+  {
+    "id": "prd_1788741112026-925167053",
+    "name": "BhadohiCarpetWaeavelite 8",
+    "slug": "bhadohicarpetwaeavelite-8-67053",
+    "description": "Sage Harmony blends soft earthy tones with modern geometric patterns to create a calm and sophisticated atmosphere. Its textured design adds depth and elegance, making it perfect for contemporary bedrooms, lounges, and living spaces. Crafted for comfort and durability, this luxurious carpet brings warmth, balance, and timeless style to any interior. Sage Harmony",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112026-925167053",
+        "url": "/uploads/1788741112026-925167053.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.031Z",
+    "updatedAt": "2026-09-07T00:31:52.031Z"
+  },
+  {
+    "id": "prd_1788741112032-886396097",
+    "name": "BhadohiCarpetWaeavelite 9",
+    "slug": "bhadohicarpetwaeavelite-9-96097",
+    "description": "Urban Canvas features a contemporary geometric design with soft neutral tones and warm terracotta accents, creating a stylish and artistic statement for modern interiors. Crafted with rich texture and lasting durability, this elegant carpet enhances living rooms, bedrooms, and hospitality spaces with comfort, warmth, sophistication, and a refined modern aesthetic. Urban Canvas",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112032-886396097",
+        "url": "/uploads/1788741112032-886396097.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.036Z",
+    "updatedAt": "2026-09-07T00:31:52.036Z"
+  },
+  {
+    "id": "prd_1788741112038-102168927",
+    "name": "BhadohiCarpetWaeavelite 10",
+    "slug": "bhadohicarpetwaeavelite-10-68927",
+    "description": "Golden Path showcases a refined geometric pattern with soft neutral shades and warm golden accents, bringing elegance and depth to contemporary interiors. Its textured design offers comfort, durability, and timeless sophistication, making it perfect for bedrooms, hallways, and living spaces while creating a warm, stylish, and inviting atmosphere throughout the home. Golden Path",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112038-102168927",
+        "url": "/uploads/1788741112038-102168927.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.043Z",
+    "updatedAt": "2026-09-07T00:31:52.043Z"
+  },
+  {
+    "id": "prd_1788741112045-870645422",
+    "name": "BhadohiCarpetWaeavelite 11",
+    "slug": "bhadohicarpetwaeavelite-11-45422",
+    "description": "Stone Serenity features soft neutral tones and layered geometric textures that create a calm and sophisticated atmosphere. Designed for modern interiors, this elegant carpet offers exceptional comfort, durability, and timeless style. Its subtle patterns add depth and warmth, making it perfect for bedrooms, lounges, hallways, and refined contemporary living spaces. Stone Serenity",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112045-870645422",
+        "url": "/uploads/1788741112045-870645422.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.049Z",
+    "updatedAt": "2026-09-07T00:31:52.049Z"
+  },
+  {
+    "id": "prd_1788741112050-178951730",
+    "name": "BhadohiCarpetWaeavelite 12",
+    "slug": "bhadohicarpetwaeavelite-12-51730",
+    "description": "Ivory Mosaic combines soft neutral shades with artistic geometric patterns to create a modern and elegant interior statement. Its textured surface adds warmth, comfort, and visual depth while complementing contemporary décor beautifully. Crafted for durability and sophistication, this luxurious carpet is perfect for bedrooms, living rooms, and refined hospitality-inspired spaces. Iv ory Mosaic",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112050-178951730",
+        "url": "/uploads/1788741112050-178951730.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.054Z",
+    "updatedAt": "2026-09-07T00:31:52.054Z"
+  },
+  {
+    "id": "prd_1788741112056-416795444",
+    "name": "BhadohiCarpetWaeavelite 13",
+    "slug": "bhadohicarpetwaeavelite-13-95444",
+    "description": "Silver Mist features a soft textured finish with elegant grey tones that bring depth, warmth, and sophistication to modern interiors. Designed for exceptional comfort and durability, this luxurious carpet complements bedrooms, lounges, and hallways beautifully. Its refined appearance creates a calm, contemporary atmosphere with timeless style and understated elegance. Silver Mist",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112056-416795444",
+        "url": "/uploads/1788741112056-416795444.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.061Z",
+    "updatedAt": "2026-09-07T00:31:52.061Z"
+  },
+  {
+    "id": "prd_1788741112063-500136588",
+    "name": "BhadohiCarpetWaeavelite 14",
+    "slug": "bhadohicarpetwaeavelite-14",
+    "description": "Graphite Luxe showcases rich charcoal-grey tones with a soft textured finish that adds elegance and depth to contemporary interiors. Crafted for superior comfort and durability, this luxurious carpet enhances bedrooms, corridors, and living spaces beautifully. Its sophisticated design creates a warm, modern ambiance while offering timeless style and refined visual appeal. Graphite Luxe",
+    "collectionId": "col_infinity",
+    "priceMode": "ENQUIRE",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "url": "/images/emerald-meadow.png",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.067Z",
+    "updatedAt": "2026-09-07T00:31:52.067Z",
+    "isBestSeller": true,
+    "collection": {
+      "name": "Mock Collection"
+    }
+  },
+  {
+    "id": "prd_1788741112069-799022931",
+    "name": "BhadohiCarpetWaeavelite 15",
+    "slug": "bhadohicarpetwaeavelite-15-22931",
+    "description": "Midnight Strata features layered linear textures in deep charcoal and soft neutral tones, creating a refined and contemporary look. Designed for comfort, durability, and timeless sophistication, this luxurious carpet enhances bedrooms, lounges, and modern interiors beautifully. Its subtle striped pattern adds depth, warmth, and elegance while complementing sophisticated contemporary décor effortlessly. Midnight Strata",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112069-799022931",
+        "url": "/uploads/1788741112069-799022931.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.074Z",
+    "updatedAt": "2026-09-07T00:31:52.074Z"
+  },
+  {
+    "id": "prd_1788741112076-29513394",
+    "name": "BhadohiCarpetWaeavelite 16",
+    "slug": "bhadohicarpetwaeavelite-16-13394",
+    "description": "Bring nature-inspired elegance indoors with the Emerald Meadow Handloom Carpet. Featuring rich green tones and a soft textured finish, this carpet adds warmth, luxury, and serenity to bedrooms, hallways, and modern interiors. Crafted for comfort and durability, it creates a refreshing ambiance while complementing contemporary décor with timeless sophistication. Emerald Meadow",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112076-29513394",
+        "url": "/uploads/1788741112076-29513394.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.080Z",
+    "updatedAt": "2026-09-07T00:31:52.080Z"
+  },
+  {
+    "id": "prd_1788741112082-382182678",
+    "name": "BhadohiCarpetWaeavelite 17",
+    "slug": "bhadohicarpetwaeavelite-17-82678",
+    "description": "Elevate your interiors with the Royal Amethyst Luxe Carpet, featuring deep purple tones and a rich textured finish. Designed to bring sophistication, warmth, and comfort, this elegant carpet enhances bedrooms, lounges, and luxury spaces effortlessly. Its plush surface and contemporary style create a refined atmosphere with lasting visual appeal. Royal Amethyst Luxe",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112082-382182678",
+        "url": "/uploads/1788741112082-382182678.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.086Z",
+    "updatedAt": "2026-09-07T00:31:52.086Z"
+  },
+  {
+    "id": "prd_1788741112088-934339110",
+    "name": "BhadohiCarpetWaeavelite 18",
+    "slug": "bhadohicarpetwaeavelite-18-39110",
+    "description": "Transform your space with the Ocean Mist Handloom Carpet, inspired by the calming beauty of deep blue and earthy tones. Its rich texture and luxurious softness add warmth, elegance, and comfort to living rooms, bedrooms, and hospitality interiors. Crafted for durability and style, it perfectly complements sophisticated contemporary décor. Ocean Mist",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112088-934339110",
+        "url": "/uploads/1788741112088-934339110.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.093Z",
+    "updatedAt": "2026-09-07T00:31:52.093Z"
+  },
+  {
+    "id": "prd_1788741112095-601115476",
+    "name": "BhadohiCarpetWaeavelite 19",
+    "slug": "bhadohicarpetwaeavelite-19-15476",
+    "description": "Add contemporary charm to your interiors with the Mocha Linea Designer Carpet. Featuring elegant curved line patterns on rich mocha tones, this carpet offers warmth, texture, and modern sophistication. Its soft feel and durable craftsmanship make it perfect for bedrooms, lounges, and premium hospitality spaces seeking timeless style and comfort. Mocha Linea Designer",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112095-601115476",
+        "url": "/uploads/1788741112095-601115476.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.099Z",
+    "updatedAt": "2026-09-07T00:31:52.099Z"
+  },
+  {
+    "id": "prd_1788741112100-120306779",
+    "name": "BhadohiCarpetWaeavelite 20",
+    "slug": "bhadohicarpetwaeavelite-20-06779",
+    "description": "Enhance your interiors with the Velvet Plum Elegance Carpet, designed with flowing abstract lines over luxurious plum tones. Its soft texture, rich color depth, and contemporary pattern create a sophisticated atmosphere in bedrooms, lounges, and premium spaces. Crafted for comfort and durability, this carpet blends modern artistry with timeless elegance beautifully. Velvet Plum",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112100-120306779",
+        "url": "/uploads/1788741112100-120306779.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.105Z",
+    "updatedAt": "2026-09-07T00:31:52.105Z"
+  },
+  {
+    "id": "prd_1788741112107-895437525",
+    "name": "BhadohiCarpetWaeavelite 21",
+    "slug": "bhadohicarpetwaeavelite-21-37525",
+    "description": "Create a calm and luxurious atmosphere with the Ivory Cloud Plush Carpet. Featuring soft ivory tones and a velvety texture, this carpet brings warmth, comfort, and elegance to bedrooms, lounges, and premium interiors. Its minimalist style and durable craftsmanship perfectly complement modern décor while adding timeless sophistication and cozy appeal. Ivory Cloud Plush",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112107-895437525",
+        "url": "/uploads/1788741112107-895437525.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.112Z",
+    "updatedAt": "2026-09-07T00:31:52.112Z"
+  },
+  {
+    "id": "prd_1788741112113-15993714",
+    "name": "BhadohiCarpetWaeavelite 22",
+    "slug": "bhadohicarpetwaeavelite-22-93714",
+    "description": "Bring warmth and refined elegance to your interiors with the Cinnamon Earth Handloom Carpet. Featuring rich earthy brown tones and a subtle textured finish, this carpet offers exceptional comfort, durability, and timeless appeal. Perfect for bedrooms, lounges, and luxury spaces, it complements modern décor while creating a cozy, inviting atmosphere. Cinnamon Earth",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112113-15993714",
+        "url": "/uploads/1788741112113-15993714.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.117Z",
+    "updatedAt": "2026-09-07T00:31:52.117Z"
+  },
+  {
+    "id": "prd_1788741112119-28163063",
+    "name": "BhadohiCarpetWaeavelite 23",
+    "slug": "bhadohicarpetwaeavelite-23-63063",
+    "description": "Elevate your interiors with the Arctic Pearl Plush Carpet, featuring soft pearl-white tones and a luxurious textured finish. Designed for comfort and sophistication, this carpet creates a bright, serene atmosphere in living rooms, bedrooms, and premium spaces. Its plush feel, durable craftsmanship, and modern elegance bring timeless beauty and warmth to any décor. Arct ic Pearl Plush",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112119-28163063",
+        "url": "/uploads/1788741112119-28163063.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.124Z",
+    "updatedAt": "2026-09-07T00:31:52.124Z"
+  },
+  {
+    "id": "prd_1788741112125-456715997",
+    "name": "BhadohiCarpetWaeavelite 24",
+    "slug": "bhadohicarpetwaeavelite-24-15997",
+    "description": "Add soft elegance to your interiors with the Rosewood Ribbed Luxe Carpet. Featuring warm blush-rose tones and a refined ribbed texture, this carpet delivers exceptional comfort, style, and sophistication. Perfect for bedrooms, lounges, and luxury spaces, its plush finish and durable craftsmanship create a cozy ambiance with timeless modern appeal. Rosewood Ribbed Luxe",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112125-456715997",
+        "url": "/uploads/1788741112125-456715997.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.130Z",
+    "updatedAt": "2026-09-07T00:31:52.130Z"
+  },
+  {
+    "id": "prd_1788741112131-864811144",
+    "name": "BhadohiCarpetWaeavelite 25",
+    "slug": "bhadohicarpetwaeavelite-25-11144",
+    "description": "Bring understated luxury to your interiors with the Silver Mist Texture Carpet. Featuring elegant silver- grey tones and a layered textured design, this carpet adds depth, softness, and sophistication to bedrooms, hallways, and contemporary living spaces. Its plush comfort and durable craftsmanship create a serene ambiance with timeless modern style and elegance. Silver Mist Texture",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112131-864811144",
+        "url": "/uploads/1788741112131-864811144.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.136Z",
+    "updatedAt": "2026-09-07T00:31:52.136Z"
+  },
+  {
+    "id": "prd_1788741112138-119229044",
+    "name": "BhadohiCarpetWaeavelite 26",
+    "slug": "bhadohicarpetwaeavelite-26-29044",
+    "description": "Enhance your interiors with the Graphite Strata Luxury Carpet, featuring layered charcoal and silver-grey textures inspired by natural stone patterns. Its sophisticated linear design adds depth, warmth, and modern elegance to bedrooms, corridors, and premium spaces. Crafted for lasting comfort and durability, this carpet creates a refined atmosphere with contemporary style. Graphite Strata Luxury",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112138-119229044",
+        "url": "/uploads/1788741112138-119229044.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.143Z",
+    "updatedAt": "2026-09-07T00:31:52.143Z"
+  },
+  {
+    "id": "prd_1788741112145-757441879",
+    "name": "BhadohiCarpetWaeavelite 27",
+    "slug": "bhadohicarpetwaeavelite-27-41879",
+    "description": "Bring understated elegance to your interiors with the Desert Taupe Harmony Carpet. Featuring soft taupe and earthy grey tones with subtle layered textures, this carpet offers warmth, comfort, and contemporary sophistication. Perfect for bedrooms, lounges, and modern spaces, its durable craftsmanship and refined finish create a calm, inviting, and timeless atmosphere. Desert Taupe Harmony",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112145-757441879",
+        "url": "/uploads/1788741112145-757441879.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.150Z",
+    "updatedAt": "2026-09-07T00:31:52.150Z"
+  },
+  {
+    "id": "prd_1788741112151-318947501",
+    "name": "BhadohiCarpetWaeavelite 28",
+    "slug": "bhadohicarpetwaeavelite-28-47501",
+    "description": "Elevate your interiors with the Stonewave Horizon Carpet, featuring layered grey, ivory, and earthy stripe patterns inspired by natural landscapes. Its soft texture and sophisticated design bring warmth, balance, and contemporary elegance to living rooms, bedrooms, and luxury spaces. Crafted for durability and comfort, it creates a refined and inviting atmosphere. S tonewave Horizon",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112151-318947501",
+        "url": "/uploads/1788741112151-318947501.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.156Z",
+    "updatedAt": "2026-09-07T00:31:52.156Z"
+  },
+  {
+    "id": "prd_1788741112159-25530409",
+    "name": "BhadohiCarpetWaeavelite 29",
+    "slug": "bhadohicarpetwaeavelite-29-30409",
+    "description": "Inspired by natural sand textures and warm earthy tones, the Desert Dune Carpet brings timeless elegance and comfort to modern interiors. Its soft layered pattern adds depth and sophistication while creating a cozy atmosphere. Crafted for durability and luxury, this carpet perfectly complements bedrooms, lounges, and premium hospitality spaces with refined contemporary charm. Desert Dune",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112159-25530409",
+        "url": "/uploads/1788741112159-25530409.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.163Z",
+    "updatedAt": "2026-09-07T00:31:52.164Z"
+  },
+  {
+    "id": "prd_1788741112165-133670861",
+    "name": "BhadohiCarpetWaeavelite 30",
+    "slug": "bhadohicarpetwaeavelite-30-70861",
+    "description": "The Golden Ember Carpet showcases rich amber tones blended with subtle linear textures, creating warmth and sophistication in every space. Its luxurious soft finish enhances comfort while adding contemporary elegance to bedrooms, hallways, and lounge interiors. Designed for durability and style, this carpet beautifully complements both classic and modern décor settings. Golden Ember",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112165-133670861",
+        "url": "/uploads/1788741112165-133670861.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.169Z",
+    "updatedAt": "2026-09-07T00:31:52.169Z"
+  },
+  {
+    "id": "prd_1788741112171-710945317",
+    "name": "BhadohiCarpetWaeavelite 31",
+    "slug": "bhadohicarpetwaeavelite-31-45317",
+    "description": "The Urban Maze Carpet features bold geometric patterns in sophisticated charcoal and grey tones, bringing a modern architectural touch to contemporary interiors. Its textured surface offers exceptional comfort, durability, and visual depth. Perfect for luxury bedrooms, hallways, and hospitality spaces, this carpet creates a refined atmosphere with stylish urban-inspired elegance and charm. Urban Maze",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112171-710945317",
+        "url": "/uploads/1788741112171-710945317.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.177Z",
+    "updatedAt": "2026-09-07T00:31:52.177Z"
+  },
+  {
+    "id": "prd_1788741112178-466348158",
+    "name": "BhadohiCarpetWaeavelite 32",
+    "slug": "bhadohicarpetwaeavelite-32-48158",
+    "description": "The Emerald Path Carpet blends rich green tones with elegant linear patterns, inspired by modern architectural pathways. Its soft texture and refined design bring warmth, comfort, and sophistication to luxury interiors. Ideal for bedrooms, lounges, and hospitality spaces, this carpet delivers durability, contemporary style, and a calming natural aesthetic with timeless appeal. Emerald Path",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112178-466348158",
+        "url": "/uploads/1788741112178-466348158.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.183Z",
+    "updatedAt": "2026-09-07T00:31:52.183Z"
+  },
+  {
+    "id": "prd_1788741112185-223931547",
+    "name": "BhadohiCarpetWaeavelite 33",
+    "slug": "bhadohicarpetwaeavelite-33-31547",
+    "description": "The Sahara Glow Carpet features warm sandy hues with subtle textured detailing, creating a serene and luxurious atmosphere. Its soft finish enhances comfort while adding understated elegance to bedrooms, lounges, and hospitality interiors. Designed for durability and timeless appeal, this carpet blends beautifully with modern, classic, and contemporary décor styles alike. Sahara Glow",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112185-223931547",
+        "url": "/uploads/1788741112185-223931547.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.190Z",
+    "updatedAt": "2026-09-07T00:31:52.190Z"
+  },
+  {
+    "id": "prd_1788741112192-128351263",
+    "name": "BhadohiCarpetWaeavelite 34",
+    "slug": "bhadohicarpetwaeavelite-34-51263",
+    "description": "Inspired by the rich brilliance of a sapphire gemstone, Royal Sapphire brings an aura of luxury, elegance, and sophistication to every space. Its deep royal blue tone creates a striking visual appeal while adding warmth and comfort to the surroundings. Perfect for premium interiors, this carpet effortlessly transforms bedrooms, lobbies, and living areas into refined spaces that reflect timeless style and grandeur. Crafted to complement both contemporary and classic décor, Royal Sapphire is a statement of luxury that never goes out of fashion. Royal Sapphire",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112192-128351263",
+        "url": "/uploads/1788741112192-128351263.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.196Z",
+    "updatedAt": "2026-09-07T00:31:52.196Z"
+  },
+  {
+    "id": "prd_1788741112198-961549274",
+    "name": "BhadohiCarpetWaeavelite 35",
+    "slug": "bhadohicarpetwaeavelite-35-49274",
+    "description": "Bring understated luxury to your interiors with Ivory Luxe Weave. Designed in a soothing ivory- beige tone with a refined textured finish, this carpet creates a warm, inviting atmosphere while adding elegance and sophistication to any space. Perfect for bedrooms, living rooms, and premium lobbies, it blends comfort with timeless style. Royal Sapphire",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112198-961549274",
+        "url": "/uploads/1788741112198-961549274.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.202Z",
+    "updatedAt": "2026-09-07T00:31:52.202Z"
+  },
+  {
+    "id": "prd_1788741112204-718221948",
+    "name": "BhadohiCarpetWaeavelite 36",
+    "slug": "bhadohicarpetwaeavelite-36-21948",
+    "description": "This name perfectly matches the carpet’s soft seafoam-green tones, layered texture, and calm flowing pattern. It gives a premium, modern, and luxurious feel while reflecting the serene wave-like design visible in the carpet. Misty Tide",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112204-718221948",
+        "url": "/uploads/1788741112204-718221948.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.209Z",
+    "updatedAt": "2026-09-07T00:31:52.209Z"
+  },
+  {
+    "id": "prd_1788741112211-991136400",
+    "name": "BhadohiCarpetWaeavelite 37",
+    "slug": "bhadohicarpetwaeavelite-37-36400",
+    "description": "Experience understated elegance with a carpet that blends soft silver-grey tones and a rich textured finish. Its subtle layered pattern creates depth and sophistication, making any space feel warm, refined, and effortlessly luxurious. Designed to complement modern interiors, this carpet brings comfort, style, and timeless appeal to living rooms, lounges, and premium hospitality spaces. Silver Mist Luxe",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112211-991136400",
+        "url": "/uploads/1788741112211-991136400.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.215Z",
+    "updatedAt": "2026-09-07T00:31:52.215Z"
+  },
+  {
+    "id": "prd_1788741112217-53598676",
+    "name": "BhadohiCarpetWaeavelite 38",
+    "slug": "bhadohicarpetwaeavelite-38-98676",
+    "description": "Br ing timeless elegance to your interiors with a richly textured carpet that blends warm golden tones and refined sophistication. Designed to create a luxurious atmosphere, it adds depth, comfort, and premium appeal to every space while complementing both classic and modern décor styles. Golden Ember",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112217-53598676",
+        "url": "/uploads/1788741112217-53598676.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.221Z",
+    "updatedAt": "2026-09-07T00:31:52.221Z"
+  },
+  {
+    "id": "prd_1788741112223-695951373",
+    "name": "BhadohiCarpetWaeavelite 39",
+    "slug": "bhadohicarpetwaeavelite-39-51373",
+    "description": "Insp ired by the depth of twilight skies and textured landscapes, Midnight Horizon brings together rich blue, earthy brown, and soft neutral tones in a beautifully blended design. Its plush texture and contemporary pattern create a warm, sophisticated look that complements both modern and classic interiors, adding comfort and timeless elegance to any space. Midnight Horizon",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788741112223-695951373",
+        "url": "/uploads/1788741112223-695951373.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T00:31:52.229Z",
+    "updatedAt": "2026-09-07T00:31:52.229Z"
+  },
+  {
+    "id": "prd_1788768143019-357185946",
+    "name": "Life Style baw_lite 1",
+    "slug": "life-style-baw-lite-1",
+    "description": "A luxurious modern bedroom featuring a full-wall fitted textured carpet in elegant grey tones. The space is designed with premium interiors, warm ambient lighting, sleek furniture, and a sophisticated aesthetic that creates a calm and upscale atmosphere. Silver Mist Strata Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "ENQUIRE",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "url": "/images/emerald-meadow.png",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T08:02:23.071Z",
+    "updatedAt": "2026-09-07T08:02:23.071Z",
+    "isBestSeller": true,
+    "collection": {
+      "name": "Mock Collection"
+    }
+  },
+  {
+    "id": "prd_1788768143078-33512193",
+    "name": "Life Style baw_lite 2",
+    "slug": "life-style-baw-lite-2-12193",
+    "description": "This carpet features a sophisticated textured weave in warm grey and brown tones, creating a cozy and elegant look. Its wall-to-wall design adds seamless comfort, while the subtle pattern enhances the room ʼ s modern luxury ambiance. Elegant Earth Tone Textured Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788768143078-33512193",
+        "url": "/uploads/1788768143078-33512193.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T08:02:23.088Z",
+    "updatedAt": "2026-09-07T08:02:23.088Z"
+  },
+  {
+    "id": "prd_1788768143090-466589349",
+    "name": "Life Style baw_lite 3",
+    "slug": "life-style-baw-lite-3-89349",
+    "description": "This carpet features a modern textured stripe design in soft grey, beige, and charcoal tones. Its elegant neutral palette adds warmth and sophistication, making it perfect for luxury living rooms and contemporary interiors. Modern Textured Striped Luxury Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788768143090-466589349",
+        "url": "/uploads/1788768143090-466589349.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T08:02:23.103Z",
+    "updatedAt": "2026-09-07T08:02:23.103Z"
+  },
+  {
+    "id": "prd_1788768143105-649923545",
+    "name": "Life Style baw_lite 4",
+    "slug": "life-style-baw-lite-4-23545",
+    "description": "This carpet features a warm earthy brown tone with a subtle textured striped pattern, giving it a natural and elegant look. Its wall-to-wall seamless finish adds comfort, sophistication, and a premium touch to the luxury interior space. Rustic Earth Texture Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788768143105-649923545",
+        "url": "/uploads/1788768143105-649923545.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T08:02:23.111Z",
+    "updatedAt": "2026-09-07T08:02:23.111Z"
+  },
+  {
+    "id": "prd_1788768143113-192053542",
+    "name": "Life Style baw_lite 5",
+    "slug": "life-style-baw-lite-5-53542",
+    "description": "This premium wall-to-wall carpet features a rich golden-brown tone with elegant textured patterns that add warmth and depth to the room. Its soft finish and luxurious design create a cozy, sophisticated, and modern bedroom atmosphere. Golden Earth Texture Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788768143113-192053542",
+        "url": "/uploads/1788768143113-192053542.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T08:02:23.121Z",
+    "updatedAt": "2026-09-07T08:02:23.121Z"
+  },
+  {
+    "id": "prd_1788768143123-458324776",
+    "name": "Life Style baw_lite 6",
+    "slug": "life-style-baw-lite-6-24776",
+    "description": "This carpet features a modern luxury design with elegant charcoal and grey tones, highlighted by bold linear patterns. Its wall-to-wall installation creates a seamless, premium look while adding warmth, texture, and sophistication to the bedroom interior. Urban Shadow Stripes Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788768143123-458324776",
+        "url": "/uploads/1788768143123-458324776.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T08:02:23.128Z",
+    "updatedAt": "2026-09-07T08:02:23.128Z"
+  },
+  {
+    "id": "prd_1788768143130-510709617",
+    "name": "Life Style baw_lite 7",
+    "slug": "life-style-baw-lite-7-09617",
+    "description": "This premium carpet features a rich forest green base with bold abstract line patterns, creating a modern and sophisticated look. Its soft textured finish adds warmth, comfort, and luxury—perfect for upscale halls, lounges, and elegant interior spaces. Emerald Geometric Luxe Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788768143130-510709617",
+        "url": "/uploads/1788768143130-510709617.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T08:02:23.137Z",
+    "updatedAt": "2026-09-07T08:02:23.137Z"
+  },
+  {
+    "id": "prd_1788768143140-561407622",
+    "name": "Life Style baw_lite 8",
+    "slug": "life-style-baw-lite-8-07622",
+    "description": "This elegant carpet features warm beige and sand tones with a subtle textured pattern, creating a calm and sophisticated look. Its soft premium finish adds comfort and luxury, making it perfect for stylish bedrooms and modern interiors. Golden Sand Textured Luxe Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788768143140-561407622",
+        "url": "/uploads/1788768143140-561407622.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T08:02:23.146Z",
+    "updatedAt": "2026-09-07T08:02:23.146Z"
+  },
+  {
+    "id": "prd_1788780860179-938544132",
+    "name": "A to Z Carpetslite 2",
+    "slug": "a-to-z-carpetslite-2-44132",
+    "description": "Heritage Carpet This luxurious handcrafted carpet features an elegant floral medallion design with intricate scrollwork and soft pastel tones of ivory, blue, red, and gold. Its grand size and detailed artistry create a royal, premium look— perfect for palaces, banquet halls, luxury villas, and high-end interiors. Floral Medallion Carpet",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860179-938544132",
+        "url": "/uploads/1788780860179-938544132.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.278Z",
+    "updatedAt": "2026-09-07T11:34:20.278Z"
+  },
+  {
+    "id": "prd_1788780860288-124754193",
+    "name": "A to Z Carpetslite 3",
+    "slug": "a-to-z-carpetslite-3-54193",
+    "description": "Heritage Carpet An elegant luxury carpet featuring intricate floral and ornamental patterns in soft gold, pink, green, and blue tones. Its grand symmetrical design and rich detailing create a royal, premium look perfect for sophisticated interiors. Floral Palace Carpet",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860288-124754193",
+        "url": "/uploads/1788780860288-124754193.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.304Z",
+    "updatedAt": "2026-09-07T11:34:20.304Z"
+  },
+  {
+    "id": "prd_1788780860312-42883384",
+    "name": "A to Z Carpetslite 4",
+    "slug": "a-to-z-carpetslite-4-83384",
+    "description": "Heritage Carpet This elegant handcrafted carpet features a soft ivory base with intricate floral vine patterns in green, red, pink, and golden tones. Its luxurious design adds a royal and sophisticated charm, perfect for premium interiors and grand spaces. Floral Vine Handwoven Carpet",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860312-42883384",
+        "url": "/uploads/1788780860312-42883384.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.328Z",
+    "updatedAt": "2026-09-07T11:34:20.328Z"
+  },
+  {
+    "id": "prd_1788780860332-185601858",
+    "name": "A to Z Carpetslite 5",
+    "slug": "a-to-z-carpetslite-5-01858",
+    "description": "Heritage Carpet This elegant luxury carpet features a grand floral and geometric design with soft beige tones, highlighted by blue, green, and gold accents. Its premium handcrafted look adds sophistication and royal charm to spacious interiors. Blossom Heritage Carpet",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860332-185601858",
+        "url": "/uploads/1788780860332-185601858.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.348Z",
+    "updatedAt": "2026-09-07T11:34:20.348Z"
+  },
+  {
+    "id": "prd_1788780860357-303632070",
+    "name": "A to Z Carpetslite 6",
+    "slug": "a-to-z-carpetslite-6-32070",
+    "description": "Heritage Carpet This elegant carpet features a luxurious cream base with intricate floral border patterns in rich gold, red, and blue tones. Its classic medallion motifs and detailed craftsmanship create a royal, premium look perfect for grand interiors and sophisticated spaces. Royal Heritage Medallion Carpet",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860357-303632070",
+        "url": "/uploads/1788780860357-303632070.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.432Z",
+    "updatedAt": "2026-09-07T11:34:20.432Z"
+  },
+  {
+    "id": "prd_1788780860436-903864327",
+    "name": "A to Z Carpetslite 7",
+    "slug": "a-to-z-carpetslite-7-64327",
+    "description": "A luxurious modern bedroom featuring a full-wall fitted textured carpet in elegant grey tones. The space is designed with premium interiors, warm ambient lighting, sleek furniture, and a sophisticated aesthetic that creates a calm and upscale atmosphere. Silver Mist Strata Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860436-903864327",
+        "url": "/uploads/1788780860436-903864327.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.444Z",
+    "updatedAt": "2026-09-07T11:34:20.444Z"
+  },
+  {
+    "id": "prd_1788780860447-930344733",
+    "name": "A to Z Carpetslite 8",
+    "slug": "a-to-z-carpetslite-8-44733",
+    "description": "This carpet features a sophisticated textured weave in warm grey and brown tones, creating a cozy and elegant look. Its wall-to-wall design adds seamless comfort, while the subtle pattern enhances the room ʼ s modern luxury ambiance. Elegant Earth Tone Textured Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860447-930344733",
+        "url": "/uploads/1788780860447-930344733.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.456Z",
+    "updatedAt": "2026-09-07T11:34:20.456Z"
+  },
+  {
+    "id": "prd_1788780860459-424991178",
+    "name": "A to Z Carpetslite 9",
+    "slug": "a-to-z-carpetslite-9-91178",
+    "description": "This carpet features a modern textured stripe design in soft grey, beige, and charcoal tones. Its elegant neutral palette adds warmth and sophistication, making it perfect for luxury living rooms and contemporary interiors. Modern Textured Striped Luxury Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860459-424991178",
+        "url": "/uploads/1788780860459-424991178.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.466Z",
+    "updatedAt": "2026-09-07T11:34:20.466Z"
+  },
+  {
+    "id": "prd_1788780860471-242513387",
+    "name": "A to Z Carpetslite 10",
+    "slug": "a-to-z-carpetslite-10-13387",
+    "description": "This carpet features a warm earthy brown tone with a subtle textured striped pattern, giving it a natural and elegant look. Its wall-to-wall seamless finish adds comfort, sophistication, and a premium touch to the luxury interior space. Rustic Earth Texture Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860471-242513387",
+        "url": "/uploads/1788780860471-242513387.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.477Z",
+    "updatedAt": "2026-09-07T11:34:20.477Z"
+  },
+  {
+    "id": "prd_1788780860480-461100357",
+    "name": "A to Z Carpetslite 11",
+    "slug": "a-to-z-carpetslite-11-00357",
+    "description": "This premium wall-to-wall carpet features a rich golden-brown tone with elegant textured patterns that add warmth and depth to the room. Its soft finish and luxurious design create a cozy, sophisticated, and modern bedroom atmosphere. Golden Earth Texture Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860480-461100357",
+        "url": "/uploads/1788780860480-461100357.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.490Z",
+    "updatedAt": "2026-09-07T11:34:20.490Z"
+  },
+  {
+    "id": "prd_1788780860494-240014608",
+    "name": "A to Z Carpetslite 12",
+    "slug": "a-to-z-carpetslite-12-14608",
+    "description": "This carpet features a modern luxury design with elegant charcoal and grey tones, highlighted by bold linear patterns. Its wall-to-wall installation creates a seamless, premium look while adding warmth, texture, and sophistication to the bedroom interior. Urban Shadow Stripes Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860494-240014608",
+        "url": "/uploads/1788780860494-240014608.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.502Z",
+    "updatedAt": "2026-09-07T11:34:20.502Z"
+  },
+  {
+    "id": "prd_1788780860506-815319730",
+    "name": "A to Z Carpetslite 13",
+    "slug": "a-to-z-carpetslite-13-19730",
+    "description": "This premium carpet features a rich forest green base with bold abstract line patterns, creating a modern and sophisticated look. Its soft textured finish adds warmth, comfort, and luxury—perfect for upscale halls, lounges, and elegant interior spaces. Emerald Geometric Luxe Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860506-815319730",
+        "url": "/uploads/1788780860506-815319730.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.513Z",
+    "updatedAt": "2026-09-07T11:34:20.513Z"
+  },
+  {
+    "id": "prd_1788780860516-48342026",
+    "name": "A to Z Carpetslite 14",
+    "slug": "a-to-z-carpetslite-14-42026",
+    "description": "This elegant carpet features warm beige and sand tones with a subtle textured pattern, creating a calm and sophisticated look. Its soft premium finish adds comfort and luxury, making it perfect for stylish bedrooms and modern interiors. Golden Sand Textured Luxe Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860516-48342026",
+        "url": "/uploads/1788780860516-48342026.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.523Z",
+    "updatedAt": "2026-09-07T11:34:20.523Z"
+  },
+  {
+    "id": "prd_1788780860525-541749451",
+    "name": "A to Z Carpetslite 15",
+    "slug": "a-to-z-carpetslite-15-49451",
+    "description": "This carpet features a modern abstract wave design in deep navy blue, soft cream, and muted grey tones. Its flowing pattern adds elegance and movement, making the bedroom look luxurious, stylish, and premium. Ocean Wave Abstract Luxury Carpet Elegance",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860525-541749451",
+        "url": "/uploads/1788780860525-541749451.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.539Z",
+    "updatedAt": "2026-09-07T11:34:20.539Z"
+  },
+  {
+    "id": "prd_1788780860542-476907848",
+    "name": "A to Z Carpetslite 16",
+    "slug": "a-to-z-carpetslite-16-07848",
+    "description": "This carpet features a modern abstract marble-inspired design in soft sage green, ivory, and grey tones. Its flowing organic pattern adds elegance and depth, making it a perfect choice for luxury halls, living rooms, and premium contemporary interiors. Sage Marble Luxe Carpet Elegance",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860542-476907848",
+        "url": "/uploads/1788780860542-476907848.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.548Z",
+    "updatedAt": "2026-09-07T11:34:20.548Z"
+  },
+  {
+    "id": "prd_1788780860551-174373252",
+    "name": "A to Z Carpetslite 17",
+    "slug": "a-to-z-carpetslite-17-73252",
+    "description": "This elegant abstract carpet features flowing wave patterns in warm beige, cream, taupe, and brown tones. Its soft neutral palette and modern design bring a luxurious, calming, and sophisticated touch to any hall or living space. Desert Harmony Wave Carpet Elegance",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860551-174373252",
+        "url": "/uploads/1788780860551-174373252.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.559Z",
+    "updatedAt": "2026-09-07T11:34:20.559Z"
+  },
+  {
+    "id": "prd_1788780860561-322447183",
+    "name": "A to Z Carpetslite 18",
+    "slug": "a-to-z-carpetslite-18-47183",
+    "description": "A stylish modern carpet featuring an abstract floral pattern in soothing sage green, beige, taupe, and deep charcoal tones. Its soft earthy palette and artistic design bring warmth, elegance, and a luxurious natural feel to any interior space. Sage Blossom Elegance Carpet Elegance",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860561-322447183",
+        "url": "/uploads/1788780860561-322447183.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.566Z",
+    "updatedAt": "2026-09-07T11:34:20.566Z"
+  },
+  {
+    "id": "prd_1788780860569-90378929",
+    "name": "A to Z Carpetslite 19",
+    "slug": "a-to-z-carpetslite-19-78929",
+    "description": "This elegant carpet features a modern abstract design with flowing curves in warm beige, cream, taupe, and brown tones. Its soft neutral palette adds a luxurious, calm, and sophisticated touch, making it perfect for premium bedrooms and contemporary interiors. Desert Harmony Abstract Carpet Elegance",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860569-90378929",
+        "url": "/uploads/1788780860569-90378929.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.576Z",
+    "updatedAt": "2026-09-07T11:34:20.576Z"
+  },
+  {
+    "id": "prd_1788780860578-660649410",
+    "name": "A to Z Carpetslite 20",
+    "slug": "a-to-z-carpetslite-20-49410",
+    "description": "This carpet features a modern abstract wave design in soothing sage green, beige, and cream tones. Its flowing line patterns create a calm, elegant look that adds depth and sophistication to luxury interiors. Soft earthy shades make it perfect for contemporary bedrooms and premium living spaces. Sage Wave Elegance Carpet Elegance",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788780860578-660649410",
+        "url": "/uploads/1788780860578-660649410.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-07T11:34:20.584Z",
+    "updatedAt": "2026-09-07T11:34:20.584Z"
+  },
+  {
+    "id": "prd_1788852333210-849875578",
+    "name": "Life Style baw 1",
+    "slug": "life-style-baw-1-75578",
+    "description": "A luxurious modern bedroom featuring a full-wall fitted textured carpet in elegant grey tones. The space is designed with premium interiors, warm ambient lighting, sleek furniture, and a sophisticated aesthetic that creates a calm and upscale atmosphere. Silver Mist Strata Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788852333210-849875578",
+        "url": "/uploads/1788852333210-849875578.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-08T07:25:34.330Z",
+    "updatedAt": "2026-09-08T07:25:34.330Z"
+  },
+  {
+    "id": "prd_1788852334336-319916795",
+    "name": "Life Style baw 2",
+    "slug": "life-style-baw-2-16795",
+    "description": "This carpet features a sophisticated textured weave in warm grey and brown tones, creating a cozy and elegant look. Its wall-to-wall design adds seamless comfort, while the subtle pattern enhances the room ʼ s modern luxury ambiance. Elegant Earth Tone Textured Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788852334336-319916795",
+        "url": "/uploads/1788852334336-319916795.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-08T07:25:35.364Z",
+    "updatedAt": "2026-09-08T07:25:35.364Z"
+  },
+  {
+    "id": "prd_1788852335369-154293261",
+    "name": "Life Style baw 3",
+    "slug": "life-style-baw-3-93261",
+    "description": "This carpet features a modern textured stripe design in soft grey, beige, and charcoal tones. Its elegant neutral palette adds warmth and sophistication, making it perfect for luxury living rooms and contemporary interiors. Modern Textured Striped Luxury Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788852335369-154293261",
+        "url": "/uploads/1788852335369-154293261.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-08T07:25:36.401Z",
+    "updatedAt": "2026-09-08T07:25:36.401Z"
+  },
+  {
+    "id": "prd_1788852336408-380827915",
+    "name": "Life Style baw 4",
+    "slug": "life-style-baw-4-27915",
+    "description": "This carpet features a warm earthy brown tone with a subtle textured striped pattern, giving it a natural and elegant look. Its wall-to-wall seamless finish adds comfort, sophistication, and a premium touch to the luxury interior space. Rustic Earth Texture Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788852336408-380827915",
+        "url": "/uploads/1788852336408-380827915.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-08T07:25:37.546Z",
+    "updatedAt": "2026-09-08T07:25:37.546Z"
+  },
+  {
+    "id": "prd_1788852337554-820236754",
+    "name": "Life Style baw 5",
+    "slug": "life-style-baw-5-36754",
+    "description": "This premium wall-to-wall carpet features a rich golden-brown tone with elegant textured patterns that add warmth and depth to the room. Its soft finish and luxurious design create a cozy, sophisticated, and modern bedroom atmosphere. Golden Earth Texture Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788852337554-820236754",
+        "url": "/uploads/1788852337554-820236754.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-08T07:25:38.783Z",
+    "updatedAt": "2026-09-08T07:25:38.784Z"
+  },
+  {
+    "id": "prd_1788852338795-442714937",
+    "name": "Life Style baw 6",
+    "slug": "life-style-baw-6-14937",
+    "description": "This carpet features a modern luxury design with elegant charcoal and grey tones, highlighted by bold linear patterns. Its wall-to-wall installation creates a seamless, premium look while adding warmth, texture, and sophistication to the bedroom interior. Urban Shadow Stripes Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788852338795-442714937",
+        "url": "/uploads/1788852338795-442714937.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-08T07:25:39.922Z",
+    "updatedAt": "2026-09-08T07:25:39.922Z"
+  },
+  {
+    "id": "prd_1788852339927-649444038",
+    "name": "Life Style baw 7",
+    "slug": "life-style-baw-7-44038",
+    "description": "This premium carpet features a rich forest green base with bold abstract line patterns, creating a modern and sophisticated look. Its soft textured finish adds warmth, comfort, and luxury—perfect for upscale halls, lounges, and elegant interior spaces. Emerald Geometric Luxe Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788852339927-649444038",
+        "url": "/uploads/1788852339927-649444038.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-08T07:25:40.987Z",
+    "updatedAt": "2026-09-08T07:25:40.987Z"
+  },
+  {
+    "id": "prd_1788852340989-391524637",
+    "name": "Life Style baw 8",
+    "slug": "life-style-baw-8-24637",
+    "description": "This elegant carpet features warm beige and sand tones with a subtle textured pattern, creating a calm and sophisticated look. Its soft premium finish adds comfort and luxury, making it perfect for stylish bedrooms and modern interiors. Golden Sand Textured Luxe Carpet Life Style",
+    "collectionId": "col_1788716339321",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1788852340989-391524637",
+        "url": "/uploads/1788852340989-391524637.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-08T07:25:42.107Z",
+    "updatedAt": "2026-09-08T07:25:42.107Z"
+  },
+  {
+    "id": "prd_1789136567238-662673057",
+    "name": "Basic Design Collection 1",
+    "slug": "basic-design-collection-1",
+    "description": "This carpet features a modern luxury design with elegant charcoal and grey tones, highlighted by bold linear patterns. Its wall-to-wall installation creates a seamless, premium look while adding warmth, texture, and sophistication to the bedroom interior. Urban Shadow Stripes Carpet Life Style",
+    "collectionId": "col_1789136344292",
+    "priceMode": "ENQUIRE",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "url": "/uploads/1789136567238-662673057.jpg",
+        "isMain": true
+      },
+      {
+        "url": "/uploads/1789147228814-535152759.png",
+        "isMain": false
+      },
+      {
+        "url": "/uploads/1789147228823-885560134.png",
+        "isMain": false
+      },
+      {
+        "url": "/uploads/1789147228830-632788157.png",
+        "isMain": false
+      }
+    ],
+    "createdAt": "2026-09-11T14:22:48.251Z",
+    "updatedAt": "2026-09-11T14:22:48.251Z",
+    "features": [
+      "Premium quality craftsmanship",
+      "Soft, luxurious underfoot feel",
+      "Durable and long-lasting material",
+      "Easy to clean and maintain"
+    ],
+    "isBestSeller": false,
+    "isGrandRoomLook": false,
+    "collection": {
+      "name": "Mock Collection"
+    }
+  },
+  {
+    "id": "prd_1789136568255-221463381",
+    "name": "Basic Design Collection 2",
+    "slug": "basic-design-collection-2-63381",
+    "description": "This premium carpet features a rich forest green base with bold abstract line patterns, creating a modern and sophisticated look. Its soft textured finish adds warmth, comfort, and luxury—perfect for upscale halls, lounges, and elegant interior spaces. Emerald Geometric Luxe Carpet Life Style",
+    "collectionId": "col_1789136344292",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1789136568255-221463381",
+        "url": "/uploads/1789136568255-221463381.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-11T14:22:49.264Z",
+    "updatedAt": "2026-09-11T14:22:49.264Z"
+  },
+  {
+    "id": "prd_1789136569266-684409409",
+    "name": "Basic Design Collection 3",
+    "slug": "basic-design-collection-3-09409",
+    "description": "This elegant carpet features warm beige and sand tones with a subtle textured pattern, creating a calm and sophisticated look. Its soft premium finish adds comfort and luxury, making it perfect for stylish bedrooms and modern interiors. Golden Sand Textured Luxe Carpet Life Style",
+    "collectionId": "col_1789136344292",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1789136569266-684409409",
+        "url": "/uploads/1789136569266-684409409.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-11T14:22:50.279Z",
+    "updatedAt": "2026-09-11T14:22:50.279Z"
+  },
+  {
+    "id": "prd_1789136570283-26982733",
+    "name": "Basic Design Collection 4",
+    "slug": "basic-design-collection-4-82733",
+    "description": "This carpet features a modern abstract wave design in deep navy blue, soft cream, and muted grey tones. Its flowing pattern adds elegance and movement, making the bedroom look luxurious, stylish, and premium. Ocean Wave Abstract Luxury Carpet Elegance",
+    "collectionId": "col_1789136344292",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1789136570283-26982733",
+        "url": "/uploads/1789136570283-26982733.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-11T14:22:51.305Z",
+    "updatedAt": "2026-09-11T14:22:51.305Z"
+  },
+  {
+    "id": "prd_1789136571307-583941726",
+    "name": "Basic Design Collection 5",
+    "slug": "basic-design-collection-5-41726",
+    "description": "This carpet features a modern abstract marble-inspired design in soft sage green, ivory, and grey tones. Its flowing organic pattern adds elegance and depth, making it a perfect choice for luxury halls, living rooms, and premium contemporary interiors. Sage Marble Luxe Carpet Elegance",
+    "collectionId": "col_1789136344292",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1789136571307-583941726",
+        "url": "/uploads/1789136571307-583941726.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-11T14:22:52.316Z",
+    "updatedAt": "2026-09-11T14:22:52.316Z"
+  },
+  {
+    "id": "prd_1789136572319-689791151",
+    "name": "Basic Design Collection 6",
+    "slug": "basic-design-collection-6-91151",
+    "description": "This elegant abstract carpet features flowing wave patterns in warm beige, cream, taupe, and brown tones. Its soft neutral palette and modern design bring a luxurious, calming, and sophisticated touch to any hall or living space. Desert Harmony Wave Carpet Elegance",
+    "collectionId": "col_1789136344292",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1789136572319-689791151",
+        "url": "/uploads/1789136572319-689791151.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-11T14:22:53.327Z",
+    "updatedAt": "2026-09-11T14:22:53.327Z"
+  },
+  {
+    "id": "prd_1789136573329-102376952",
+    "name": "Basic Design Collection 7",
+    "slug": "basic-design-collection-7-76952",
+    "description": "A stylish modern carpet featuring an abstract floral pattern in soothing sage green, beige, taupe, and deep charcoal tones. Its soft earthy palette and artistic design bring warmth, elegance, and a luxurious natural feel to any interior space. Sage Blossom Elegance Carpet Elegance",
+    "collectionId": "col_1789136344292",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1789136573329-102376952",
+        "url": "/uploads/1789136573329-102376952.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-11T14:22:54.338Z",
+    "updatedAt": "2026-09-11T14:22:54.338Z"
+  },
+  {
+    "id": "prd_1789136574341-517929814",
+    "name": "Basic Design Collection 8",
+    "slug": "basic-design-collection-8-29814",
+    "description": "This elegant carpet features a modern abstract design with flowing curves in warm beige, cream, taupe, and brown tones. Its soft neutral palette adds a luxurious, calm, and sophisticated touch, making it perfect for premium bedrooms and contemporary interiors. Desert Harmony Abstract Carpet Elegance",
+    "collectionId": "col_1789136344292",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1789136574341-517929814",
+        "url": "/uploads/1789136574341-517929814.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-11T14:22:55.361Z",
+    "updatedAt": "2026-09-11T14:22:55.361Z"
+  },
+  {
+    "id": "prd_1789136575363-842972313",
+    "name": "Basic Design Collection 9",
+    "slug": "basic-design-collection-9-72313",
+    "description": "This carpet features a modern abstract wave design in soothing sage green, beige, and cream tones. Its flowing line patterns create a calm, elegant look that adds depth and sophistication to luxury interiors. Soft earthy shades make it perfect for contemporary bedrooms and premium living spaces. Sage Wave Elegance Carpet Elegance",
+    "collectionId": "col_1789136344292",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1789136575363-842972313",
+        "url": "/uploads/1789136575363-842972313.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-11T14:22:56.373Z",
+    "updatedAt": "2026-09-11T14:22:56.373Z"
+  },
+  {
+    "id": "prd_1789196043409-636129188",
+    "name": "ZigZag 1",
+    "slug": "zigzag-1",
+    "description": "Discover the elegance of the ZigZag 1 carpet. This beautifully crafted piece brings warmth, texture, and sophisticated style to any room.",
+    "collectionId": "col_1789196044422",
+    "priceMode": "ENQUIRE",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "url": "/uploads/1789196043409-636129188.jpg",
+        "isMain": true
+      },
+      {
+        "url": "/uploads/1789196145552-677592180.jpg",
+        "isMain": false
+      },
+      {
+        "url": "/uploads/1789196145555-390404159.jpg",
+        "isMain": false
+      },
+      {
+        "url": "/uploads/1789196145557-108754973.jpg",
+        "isMain": false
+      },
+      {
+        "url": "/uploads/1789196145559-587582103.jpg",
+        "isMain": false
+      }
+    ],
+    "createdAt": "2026-09-12T06:54:05.433Z",
+    "updatedAt": "2026-09-12T06:54:05.433Z",
+    "features": [
+      "Premium quality craftsmanship",
+      "Soft, luxurious underfoot feel",
+      "Durable and long-lasting material",
+      "Easy to clean and maintain"
+    ],
+    "isBestSeller": false,
+    "isGrandRoomLook": false,
+    "collection": {
+      "name": "ZigZag Design",
+      "slug": "zigzag-design"
+    }
+  },
+  {
+    "id": "prd_1789196045435-75684444",
+    "name": "ZigZag 2",
+    "slug": "zigzag-2-84444",
+    "description": "",
+    "collectionId": "col_1789196044422",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1789196045435-75684444",
+        "url": "/uploads/1789196045435-75684444.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-12T06:54:07.460Z",
+    "updatedAt": "2026-09-12T06:54:07.460Z"
+  },
+  {
+    "id": "prd_1789196047464-626881727",
+    "name": "ZigZag 3",
+    "slug": "zigzag-3-81727",
+    "description": "",
+    "collectionId": "col_1789196044422",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1789196047464-626881727",
+        "url": "/uploads/1789196047464-626881727.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-12T06:54:09.494Z",
+    "updatedAt": "2026-09-12T06:54:09.494Z"
+  },
+  {
+    "id": "prd_1789196049498-432558640",
+    "name": "ZigZag 4",
+    "slug": "zigzag-4-58640",
+    "description": "",
+    "collectionId": "col_1789196044422",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1789196049498-432558640",
+        "url": "/uploads/1789196049498-432558640.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-12T06:54:11.525Z",
+    "updatedAt": "2026-09-12T06:54:11.525Z"
+  },
+  {
+    "id": "prd_1789196051528-244969718",
+    "name": "ZigZag 5",
+    "slug": "zigzag-5-69718",
+    "description": "",
+    "collectionId": "col_1789196044422",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1789196051528-244969718",
+        "url": "/uploads/1789196051528-244969718.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-12T06:54:13.557Z",
+    "updatedAt": "2026-09-12T06:54:13.557Z"
+  },
+  {
+    "id": "prd_1789196053560-740389815",
+    "name": "ZigZag 6",
+    "slug": "zigzag-6-89815",
+    "description": "",
+    "collectionId": "col_1789196044422",
+    "priceMode": "Request Quote",
+    "basePrice": null,
+    "isVisible": true,
+    "images": [
+      {
+        "id": "img_1789196053560-740389815",
+        "url": "/uploads/1789196053560-740389815.jpg",
+        "isMain": true
+      }
+    ],
+    "createdAt": "2026-09-12T06:54:15.588Z",
+    "updatedAt": "2026-09-12T06:54:15.588Z"
+  }
+]

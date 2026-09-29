@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-burgundy: #990E14;
+  --color-brand-burgundy-dark: #7B090E;
+  --color-brand-gold: #DE8B22;
+  --color-brand-cream: #FAF7F0;
+  --color-brand-dark: #171212;
+  --color-brand-muted: #68605A;
+  --color-brand-border: #E8E0D5;
+  
+  --color-background: var(--color-brand-cream);
+  --color-foreground: var(--color-brand-dark);
+  
+  --font-serif: "Cormorant Garamond", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+:root {
+  --background: #FAF7F0;
+  --foreground: #171212;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+}
+
+/* Subtle transitions for interactive elements */
+a, button {
+  transition: all 0.2s ease-in-out;
+}

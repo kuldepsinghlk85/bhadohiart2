@@ -1,0 +1,69 @@
+[
+  {
+    "id": "col_1788716339321",
+    "name": "lifestyle",
+    "slug": "lifestyle",
+    "description": "A luxurious modern bedroom featuring a full-wall fitted textured carpet in elegant grey tones. The space is designed with premium interiors, warm ambient lighting, sleek furniture, and a sophisticated aesthetic that creates a calm and upscale atmosphere",
+    "image": "/uploads/1788716254831-980969026.jpg",
+    "sliderImages": [
+      "/uploads/1788716328812-629668747.jpg",
+      "/uploads/1788716328821-212352326.jpg",
+      "/uploads/1788716328828-649265908.jpg",
+      "/uploads/1788716328837-343807195.jpg",
+      "/uploads/1788716337378-994198203.jpg"
+    ],
+    "createdAt": "2026-09-06T17:38:59.323Z",
+    "updatedAt": "2026-09-06T17:38:59.323Z",
+    "_count": {
+      "products": 0
+    }
+  },
+  {
+    "id": "col_1788717399365",
+    "name": "Elegance Carpet",
+    "slug": "elegance-carpet",
+    "description": "Premium Handknotted 81 Knots/sq inch carpet featuring Hand Carded NZ Wool & Real Silk 50/50. Distressed Finish with High-Low pile. Crafted in India.",
+    "image": "/uploads/1788717377155-851618079.jpg",
+    "sliderImages": [
+      "/uploads/1788717394250-330505870.jpg",
+      "/uploads/1788717394254-376636855.jpg",
+      "/uploads/1788717394257-266632013.jpg"
+    ],
+    "createdAt": "2026-09-06T17:56:39.366Z",
+    "updatedAt": "2026-09-06T17:56:39.366Z",
+    "_count": {
+      "products": 0
+    }
+  },
+  {
+    "id": "col_1789136344292",
+    "name": "Basic Design Collection",
+    "slug": "Basic-Design-Collection",
+    "description": "Basic Design CollectionBasic Design CollectionBasic Design CollectionBasic Design CollectionBasic Design CollectionBasic Design CollectionBasic Design CollectionBasic Design CollectionBasic Design CollectionBasic Design CollectionBasic Design CollectionBasic Design CollectionBasic Design Collection",
+    "image": "/uploads/1789136307867-62881891.png",
+    "sliderImages": [
+      "/uploads/1789136337318-53082866.png",
+      "/uploads/1789136337327-229345817.png",
+      "/uploads/1789136337335-516446316.png",
+      "/uploads/1789136337348-181294270.png",
+      "/uploads/1789136337356-235925983.png"
+    ],
+    "createdAt": "2026-09-11T14:19:04.292Z",
+    "updatedAt": "2026-09-11T14:19:04.292Z",
+    "_count": {
+      "products": 0
+    }
+  },
+  {
+    "id": "col_1789196044422",
+    "name": "ZigZag Design",
+    "slug": "zigzag-design",
+    "description": "Discover the elegance of the ZigZag collection. Beautifully crafted pieces bringing warmth, texture, and sophisticated style to any room.",
+    "sliderImages": [
+      "/uploads/1789196043409-636129188.jpg",
+      "/uploads/1789196045435-75684444.jpg",
+      "/uploads/1789196047464-626881727.jpg"
+    ],
+    "image": "/uploads/1789196043409-636129188.jpg"
+  }
+]

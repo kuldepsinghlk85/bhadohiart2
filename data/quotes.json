@@ -1,0 +1,47 @@
+[
+  {
+    "id": "QTE-1789139235278",
+    "customerName": "CUST-101",
+    "productIds": [
+      "prd_1788741112019-429396349",
+      "prd_1788741112013-246159767"
+    ],
+    "createdAt": "2026-09-11T15:07:15.278Z"
+  },
+  {
+    "id": "QTE-1789143324557",
+    "customerName": "VILLAGE DAULATPUR",
+    "productIds": [
+      "prd_1789136571307-583941726",
+      "prd_1789136569266-684409409"
+    ],
+    "createdAt": "2026-09-11T16:15:24.557Z"
+  },
+  {
+    "id": "QTE-1789147602954",
+    "customerName": "BLOCK HARAKH",
+    "productIds": [
+      "prd_1789136571307-583941726",
+      "prd_1789136573329-102376952"
+    ],
+    "createdAt": "2026-09-11T17:26:42.954Z"
+  },
+  {
+    "id": "QTE-1789188322012",
+    "customerName": "kuldeep verma",
+    "productIds": [
+      "prd_1788716696213-372096573",
+      "prd_1788716696233-667845185"
+    ],
+    "createdAt": "2026-09-12T04:45:22.012Z"
+  },
+  {
+    "id": "QTE-1789195477865",
+    "customerName": "kuldeep verma",
+    "productIds": [
+      "prd_1788716696213-372096573",
+      "prd_1788716696281-293339772"
+    ],
+    "createdAt": "2026-09-12T06:44:37.865Z"
+  }
+]

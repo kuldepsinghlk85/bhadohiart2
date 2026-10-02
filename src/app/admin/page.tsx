@@ -213,6 +213,20 @@ export default async function AdminDashboardPage() {
                   <span className="text-indigo-700 font-bold group-hover:translate-x-1 transition-transform text-sm">→</span>
                 </Link>
               </li>
+              <li>
+                <Link href="/admin/users" className="group flex items-center justify-between p-3.5 bg-blue-50/40 hover:bg-blue-50 rounded-xl border border-blue-100 transition-all">
+                  <div className="flex items-center gap-3">
+                    <div className="w-8 h-8 rounded-lg bg-blue-100 text-blue-800 flex items-center justify-center font-bold text-xs">
+                      UC
+                    </div>
+                    <div>
+                      <h3 className="font-bold text-xs text-stone-900 group-hover:text-blue-800 transition-colors">Users &amp; Contacts</h3>
+                      <p className="text-[11px] text-stone-500">View customer logins, emails, phones &amp; addresses</p>
+                    </div>
+                  </div>
+                  <span className="text-blue-700 font-bold group-hover:translate-x-1 transition-transform text-sm">→</span>
+                </Link>
+              </li>
             </ul>
           </div>
         </div>

@@ -3,13 +3,14 @@
 import React from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { LayoutDashboard, Package, ShoppingCart, MessageSquare, Image as ImageIcon, FolderTree, FileUp, Library, Link as LinkIcon, Palette, Video, Quote } from 'lucide-react';
+import { LayoutDashboard, Users, Package, ShoppingCart, MessageSquare, Image as ImageIcon, FolderTree, FileUp, Library, Link as LinkIcon, Palette, Video, Quote } from 'lucide-react';
 
 export default function AdminSidebar() {
   const pathname = usePathname();
 
   const navItems = [
     { name: 'Dashboard', href: '/admin', icon: LayoutDashboard, iconColor: 'text-emerald-400', badgeColor: 'bg-emerald-500/20 text-emerald-300' },
+    { name: 'Users & Contacts', href: '/admin/users', icon: Users, iconColor: 'text-blue-400', badgeColor: 'bg-blue-500/20 text-blue-300' },
     { name: 'Testimonials', href: '/admin/testimonials', icon: Quote, iconColor: 'text-rose-400', badgeColor: 'bg-rose-500/20 text-rose-300' },
     { name: 'Header Themes', href: '/admin/appearance', icon: Palette, iconColor: 'text-pink-400', badgeColor: 'bg-pink-500/20 text-pink-300' },
     { name: 'Video & Social', href: '/admin/social-video', icon: Video, iconColor: 'text-red-400', badgeColor: 'bg-red-500/20 text-red-300' },

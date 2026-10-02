@@ -80,8 +80,62 @@ export async function POST(req: Request) {
         }))
       };
       
-      const { upsertJsonItem } = await import('@/lib/jsonStore');
+      const { upsertJsonItem, readJsonStore, writeJsonStore } = await import('@/lib/jsonStore');
       upsertJsonItem('orders.json', newOrder);
+
+      // Sync customer contact details to users.json for instant admin directory visibility
+      try {
+        const users = readJsonStore<any>('users.json');
+        const userEmail = contactInfo.email?.toLowerCase();
+        let targetUser = users.find((u: any) => u.email?.toLowerCase() === userEmail);
+        const orderSummary = {
+          id: orderId,
+          date: new Date().toISOString(),
+          total: totalAmount,
+          status: 'PENDING',
+          itemsCount: items.length
+        };
+
+        const newAddr = {
+          id: `addr-${Date.now()}`,
+          type: 'SHIPPING',
+          addressLine: shippingAddress.addressLine || shippingAddress.street || '',
+          city: shippingAddress.city || '',
+          state: shippingAddress.state || '',
+          pinCode: shippingAddress.pinCode || shippingAddress.pincode || '',
+          country: shippingAddress.country || 'India'
+        };
+
+        if (targetUser) {
+          if (!targetUser.phone && contactInfo.phone) targetUser.phone = contactInfo.phone;
+          targetUser.orders = targetUser.orders || [];
+          targetUser.orders.unshift(orderSummary);
+          targetUser.ordersCount = targetUser.orders.length;
+          targetUser.totalSpent = (targetUser.totalSpent || 0) + totalAmount;
+          targetUser.addresses = targetUser.addresses || [];
+          if (!targetUser.addresses.some((a: any) => a.pinCode === newAddr.pinCode && a.addressLine === newAddr.addressLine)) {
+            targetUser.addresses.push(newAddr);
+          }
+        } else {
+          users.unshift({
+            id: `usr-${Date.now()}`,
+            name: `${contactInfo.firstName} ${contactInfo.lastName}`.trim(),
+            email: contactInfo.email,
+            phone: contactInfo.phone || '',
+            role: 'USER',
+            provider: 'Checkout Guest',
+            createdAt: new Date().toISOString(),
+            updatedAt: new Date().toISOString(),
+            addresses: [newAddr],
+            orders: [orderSummary],
+            ordersCount: 1,
+            totalSpent: totalAmount
+          });
+        }
+        writeJsonStore('users.json', users);
+      } catch (userSyncErr) {
+        console.error("Failed to sync customer to users store:", userSyncErr);
+      }
     }
 
     return NextResponse.json({ success: true, orderId: orderId }, { status: 201 });

@@ -1,0 +1,168 @@
+[
+  {
+    "id": "admin-master",
+    "name": "Bhadohi Arts Administrator",
+    "email": "admin@bhadohiartsweave.com",
+    "phone": "+91 99184 15152",
+    "role": "ADMIN",
+    "provider": "Credentials",
+    "createdAt": "2026-08-01T10:00:00.000Z",
+    "updatedAt": "2026-10-02T08:00:00.000Z",
+    "lastLoginAt": "2026-10-02T08:45:00.000Z",
+    "hasActiveSession": true,
+    "sessionsCount": 1,
+    "addresses": [
+      {
+        "id": "addr-admin-1",
+        "type": "HEADQUARTERS",
+        "addressLine": "Main Carpet Market, Maryadpatti",
+        "city": "Bhadohi",
+        "state": "Uttar Pradesh",
+        "pinCode": "221401",
+        "country": "India"
+      }
+    ],
+    "orders": [],
+    "ordersCount": 0,
+    "totalSpent": 0
+  },
+  {
+    "id": "superadmin-master",
+    "name": "Executive Super Admin",
+    "email": "superadmin@bhadohiartsweave.com",
+    "phone": "+91 99184 15152",
+    "role": "SUPERADMIN",
+    "provider": "Credentials",
+    "createdAt": "2026-07-15T09:00:00.000Z",
+    "updatedAt": "2026-10-02T08:00:00.000Z",
+    "lastLoginAt": "2026-10-02T08:30:00.000Z",
+    "hasActiveSession": true,
+    "sessionsCount": 1,
+    "addresses": [
+      {
+        "id": "addr-superadmin-1",
+        "type": "OFFICE",
+        "addressLine": "Bhadohi Arts & Crafts Center",
+        "city": "Bhadohi",
+        "state": "Uttar Pradesh",
+        "pinCode": "221401",
+        "country": "India"
+      }
+    ],
+    "orders": [],
+    "ordersCount": 0,
+    "totalSpent": 0
+  },
+  {
+    "id": "usr-block-harakh",
+    "name": "BLOCK HARAKH",
+    "email": "kuldep.singh@gmail.com",
+    "phone": "+91 99184 15152",
+    "role": "USER",
+    "provider": "Credentials",
+    "createdAt": "2026-09-11T14:12:22.398Z",
+    "updatedAt": "2026-09-12T16:00:00.000Z",
+    "lastLoginAt": "2026-09-28T11:20:00.000Z",
+    "hasActiveSession": false,
+    "sessionsCount": 0,
+    "addresses": [
+      {
+        "id": "addr-harakh-1",
+        "type": "SHIPPING",
+        "addressLine": "FAIZABAD ROAD",
+        "city": "Barabanki",
+        "state": "Uttar Pradesh",
+        "pinCode": "225414",
+        "country": "India"
+      }
+    ],
+    "orders": [
+      {
+        "id": "ORD-764390",
+        "date": "2026-09-11T14:12:22.398Z",
+        "total": 42000,
+        "status": "PENDING",
+        "itemsCount": 2
+      },
+      {
+        "id": "ORD-50556",
+        "date": "2026-09-11T15:05:45.325Z",
+        "total": 38500,
+        "status": "PROCESSING",
+        "itemsCount": 2
+      }
+    ],
+    "ordersCount": 2,
+    "totalSpent": 80500
+  },
+  {
+    "id": "usr-village-daulatpur",
+    "name": "VILLAGE DAULATPUR",
+    "email": "growfarmfpo@gmail.com",
+    "phone": "+91 99184 15152",
+    "role": "USER",
+    "provider": "Google",
+    "createdAt": "2026-09-11T15:34:12.983Z",
+    "updatedAt": "2026-09-12T10:00:00.000Z",
+    "lastLoginAt": "2026-09-25T14:10:00.000Z",
+    "hasActiveSession": false,
+    "sessionsCount": 0,
+    "addresses": [
+      {
+        "id": "addr-daulatpur-1",
+        "type": "SHIPPING",
+        "addressLine": "FAIZABAD ROAD, Post Daulatpur",
+        "city": "Barabanki",
+        "state": "Uttar Pradesh",
+        "pinCode": "225414",
+        "country": "India"
+      }
+    ],
+    "orders": [
+      {
+        "id": "ORD-457720",
+        "date": "2026-09-11T15:34:12.983Z",
+        "total": 54000,
+        "status": "PENDING",
+        "itemsCount": 2
+      }
+    ],
+    "ordersCount": 1,
+    "totalSpent": 54000
+  },
+  {
+    "id": "usr-kuldeep-verma",
+    "name": "Kuldeep Verma",
+    "email": "kuldeep.verma@bhadohiweave.com",
+    "phone": "+91 98390 12345",
+    "role": "USER",
+    "provider": "Credentials",
+    "createdAt": "2026-09-12T04:44:26.729Z",
+    "updatedAt": "2026-09-20T12:00:00.000Z",
+    "lastLoginAt": "2026-09-29T18:40:00.000Z",
+    "hasActiveSession": false,
+    "sessionsCount": 0,
+    "addresses": [
+      {
+        "id": "addr-kuldeep-1",
+        "type": "HOME",
+        "addressLine": "Sector 8, Indira Nagar",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "pinCode": "226016",
+        "country": "India"
+      }
+    ],
+    "orders": [
+      {
+        "id": "ORD-569718",
+        "date": "2026-09-12T04:44:26.729Z",
+        "total": 62500,
+        "status": "COMPLETED",
+        "itemsCount": 3
+      }
+    ],
+    "ordersCount": 1,
+    "totalSpent": 62500
+  }
+]

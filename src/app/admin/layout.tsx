@@ -1,12 +1,16 @@
-import React from 'react'
-import Link from 'next/link'
-import { auth, signOut } from '@/auth'
-import AdminSidebar from '@/components/admin/AdminSidebar'
+import React from 'react';
+import Link from 'next/link';
+import { getAdminSession } from '@/lib/adminAuth';
+import { redirect } from 'next/navigation';
+import AdminSidebar from '@/components/admin/AdminSidebar';
+import { adminLogoutAction } from './actions';
+import { ShieldCheck, LogOut, ExternalLink } from 'lucide-react';
 
 export default async function AdminLayout({ children }: { children: React.ReactNode }) {
-  const session = await auth();
+  const admin = await getAdminSession();
 
-  if (!session) {
+  // If not authenticated as admin (e.g. on /admin/login), render children directly without admin chrome
+  if (!admin) {
     return <>{children}</>;
   }
 
@@ -26,6 +30,10 @@ export default async function AdminLayout({ children }: { children: React.ReactN
               <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
               Live Storefront
             </span>
+            <span className="px-2.5 py-0.5 rounded-full bg-[#990E14]/10 text-[#990E14] text-[10px] font-bold uppercase tracking-wider border border-[#990E14]/20 flex items-center gap-1">
+              <ShieldCheck className="w-3 h-3 text-[#DE8B22]" />
+              {admin.role}
+            </span>
           </div>
           
           <div className="flex items-center gap-3.5">
@@ -36,27 +44,30 @@ export default async function AdminLayout({ children }: { children: React.ReactN
               className="text-xs font-semibold text-[#990E14] hover:text-[#7B090E] bg-[#FAF7F0] hover:bg-[#F3EDE2] border border-[#DE8B22]/30 px-3 py-1.5 rounded-xl transition-all shadow-2xs flex items-center gap-1.5"
             >
               <span>View Website</span>
-              <span className="text-[10px]">↗</span>
+              <ExternalLink className="w-3 h-3" />
             </Link>
 
             <div className="h-4 w-[1px] bg-stone-200" />
 
             <div className="flex items-center gap-2.5">
               <div className="w-8 h-8 rounded-full bg-gradient-to-br from-[#990E14] via-[#DE8B22] to-[#7B090E] flex items-center justify-center text-white font-bold text-xs shadow-xs">
-                {(session?.user?.name || session?.user?.email || 'A').charAt(0).toUpperCase()}
+                {(admin.name || admin.email || 'A').charAt(0).toUpperCase()}
               </div>
               <div className="text-xs hidden md:block">
-                <p className="text-stone-800 font-bold leading-none">{session?.user?.name || 'Administrator'}</p>
-                <p className="text-stone-400 text-[10px] mt-0.5">{session?.user?.email}</p>
+                <p className="text-stone-800 font-bold leading-none">{admin.name}</p>
+                <p className="text-stone-400 text-[10px] mt-0.5">{admin.email}</p>
               </div>
             </div>
             
-            <form action={async () => {
-              "use server"
-              await signOut({ redirectTo: '/admin/login' })
-            }}>
-              <button className="text-xs font-bold text-rose-600 hover:text-rose-700 transition-colors bg-rose-50 hover:bg-rose-100 px-3 py-1.5 rounded-xl border border-rose-200 shadow-2xs">
-                Logout
+            {/* Isolated Admin Logout: Does NOT kill storefront customer session! */}
+            <form action={adminLogoutAction}>
+              <button 
+                type="submit"
+                className="text-xs font-bold text-rose-600 hover:text-rose-700 transition-colors bg-rose-50 hover:bg-rose-100 px-3 py-1.5 rounded-xl border border-rose-200 shadow-2xs flex items-center gap-1.5 cursor-pointer"
+                title="Log out of Admin Management Suite only"
+              >
+                <LogOut className="w-3.5 h-3.5" />
+                <span>Admin Logout</span>
               </button>
             </form>
           </div>
@@ -70,5 +81,5 @@ export default async function AdminLayout({ children }: { children: React.ReactN
         </main>
       </div>
     </div>
-  )
+  );
 }

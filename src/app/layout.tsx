@@ -11,6 +11,7 @@ export const metadata: Metadata = {
 };
 
 import prisma from "@/lib/prisma";
+import { getAdminSession } from "@/lib/adminAuth";
 
 export default async function RootLayout({
   children,
@@ -19,6 +20,7 @@ export default async function RootLayout({
 }>) {
   const session = await auth();
   const user = session?.user as any;
+  const admin = await getAdminSession();
   
   let collections: any[] = [];
   try {
@@ -54,7 +56,7 @@ export default async function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body className="antialiased min-h-screen flex flex-col" suppressHydrationWarning>
-        <Header user={user} collections={collections} themeId={headerTheme} />
+        <Header user={user} admin={admin} collections={collections} themeId={headerTheme} />
         <CartDrawer />
         <main className="flex-1">
           {children}

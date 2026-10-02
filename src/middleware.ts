@@ -1,5 +1,6 @@
-import NextAuth from "next-auth"
-import { NextResponse } from "next/server"
+import NextAuth from "next-auth";
+import { NextResponse } from "next/server";
+import { verifyAdminToken, ADMIN_COOKIE_NAME } from "@/lib/adminAuth";
 
 const { auth } = NextAuth({
   providers: [],
@@ -23,42 +24,60 @@ const { auth } = NextAuth({
       return session;
     }
   }
-})
+});
 
-export default auth((req) => {
-  const isLoggedIn = !!req.auth;
-  const role = req.auth?.user?.role;
+export default auth(async (req) => {
   const path = req.nextUrl.pathname;
+  const isCustomerLoggedIn = !!req.auth;
 
-  const isAuthPage = path.startsWith('/login') || path.startsWith('/register') || path.startsWith('/admin/login');
-  const isAdminRoute = path.startsWith('/admin') && !path.startsWith('/admin/login');
-  
-  if (isAuthPage) {
-    if (isLoggedIn) {
-      const isAdmin = role === 'ADMIN' || role === 'SUPERADMIN' || role === 'admin' || role === 'superadmin';
-      return NextResponse.redirect(new URL(isAdmin ? '/admin' : '/', req.nextUrl));
+  // Check isolated admin session cookie
+  const adminCookie = req.cookies.get(ADMIN_COOKIE_NAME)?.value;
+  const adminSession = adminCookie ? await verifyAdminToken(adminCookie) : null;
+  const isAdminLoggedIn = !!adminSession;
+
+  // 1. Admin Login Page (/admin/login)
+  if (path === '/admin/login') {
+    if (isAdminLoggedIn) {
+      return NextResponse.redirect(new URL('/admin', req.nextUrl));
     }
     return NextResponse.next();
   }
 
-  // Protect Admin Routes
-  if (isAdminRoute) {
-    if (!isLoggedIn) {
-      let from = req.nextUrl.pathname;
+  // 2. Protected Admin Routes (/admin, /admin/*)
+  if (path.startsWith('/admin')) {
+    if (!isAdminLoggedIn) {
+      let from = path;
+      if (req.nextUrl.search) {
+        from += req.nextUrl.search;
+      }
+      return NextResponse.redirect(new URL(`/admin/login?from=${encodeURIComponent(from)}`, req.nextUrl));
+    }
+    return NextResponse.next();
+  }
+
+  // 3. Customer Auth Pages (/login, /register)
+  if (path === '/login' || path === '/register') {
+    if (isCustomerLoggedIn) {
+      return NextResponse.redirect(new URL('/account', req.nextUrl));
+    }
+    return NextResponse.next();
+  }
+
+  // 4. Customer Account Protected Routes (/account, /account/*)
+  if (path.startsWith('/account')) {
+    if (!isCustomerLoggedIn) {
+      let from = path;
       if (req.nextUrl.search) {
         from += req.nextUrl.search;
       }
       return NextResponse.redirect(new URL(`/login?from=${encodeURIComponent(from)}`, req.nextUrl));
     }
-    const isAdmin = role === 'ADMIN' || role === 'SUPERADMIN' || role === 'admin' || role === 'superadmin';
-    if (!isAdmin) {
-      return NextResponse.redirect(new URL('/', req.nextUrl));
-    }
+    return NextResponse.next();
   }
 
   return NextResponse.next();
-})
+});
 
 export const config = {
   matcher: ['/((?!api|_next/static|_next/image|favicon.ico).*)']
-}
+};
